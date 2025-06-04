@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a **Generative AI Engineer**, **Python Developer**, and **AI Solutions Architect** passionate about creating real-world impact through intelligent systems. I specialize in building end-to-end **GenAI applications** using tools like **OpenAI**, **LangChain**, **Hugging Face**, and **Vertex AI**—with a strong focus on **healthcare** and **enterprise automation** use cases.
+I'm a **Generative AI Engineer**, **Python Developer**, and **AI Solutions Architect** passionate about creating real-world impact through intelligent systems. I specialize in building end-to-end **GenAI applications** using tools like **OpenAI**, **LangChain**, **Hugging Face**, and **Vertex AI** with a strong focus on **healthcare** and **enterprise automation** use cases.
 
 With hands-on experience in **Prompt Engineering**, **Retrieval-Augmented Generation (RAG)**, **LLM pipelines**, and **cloud-native deployments**, I enjoy designing scalable AI systems that extract insights, automate decisions, and enhance user experiences.
 
@@ -34,13 +34,13 @@ With hands-on experience in **Prompt Engineering**, **Retrieval-Augmented Genera
 
 Here are some of the projects I’ve built that reflect my GenAI and analytics capabilities:
 
-- 🔎 [**Health Insurance Claims Analyzer**](https://github.com/kalluru498/health-insurance-claims-analyzer)  
+- 🔎 [**Health Insurance Claims Analyzer**](https://github.com/kalluru498/health-claims-analyzer)  
   NLP-powered Streamlit app to categorize, prioritize, and extract sentiment from health insurance claim inquiries using Hugging Face models.
 
 - 🗣️ [**Sentiment Analysis with BERT**](https://github.com/kalluru498/Sentiment-Analysis-BERT)  
   Fine-tuned BERT model to classify customer reviews with real-time deployment for e-commerce insights.
 
-- 🤖 [**AI-Powered E-Commerce Chatbot**](https://github.com/kalluru498/ecommerce-genai-chatbot)  
+- 🤖 [**AI-Powered E-Commerce Chatbot**](https://github.com/kalluru498/cloudmart)  
   GenAI chatbot using LangChain and OpenAI API to recommend products, resolve queries, and personalize user experiences.
 
 - ⚡ [**Streamlit + FastAPI AI Stack**](https://github.com/kalluru498/streamlit-fastapi-demo)  
