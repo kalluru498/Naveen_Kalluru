@@ -23,8 +23,8 @@ Here are some of my top projects that showcase my skills and interests:
 ---
 
 ## 📊 GitHub Stats
-![Naveen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naveenkalluru&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naveenkalluru&layout=compact&theme=radical)
+![Naveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=kalluru498&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kalluru498&layout=compact&theme=radical)
 
 ---
 
