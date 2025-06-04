@@ -9,6 +9,9 @@ I am a **Generative AI Engineer**, **Python Developer**, and **AI Solutions Arch
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface)
 ![LangChain](https://img.shields.io/badge/LangChain-FF5733?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
