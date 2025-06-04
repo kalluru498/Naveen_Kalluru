@@ -5,7 +5,7 @@ I am a **Generative AI Engineer**, **Python Developer**, and **AI Solutions Arch
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
