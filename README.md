@@ -22,7 +22,6 @@ I am a **Generative AI Engineer**, **Python Developer**, and **AI Solutions Arch
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=vector&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-02A6E6?style=for-the-badge&logo=pinecone&logoColor=white)
-![LLMOps](https://img.shields.io/badge/LLMOps-8E44AD?style=for-the-badge&logo=ai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1ABC9C?style=for-the-badge&logo=prompt&logoColor=white)
 
 
@@ -51,7 +50,7 @@ Feel free to reach out to me via:
 ---
 
 ## 🤝 Contributions
-![GitHub Contribution Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveenkalluru&theme=radical)
+![GitHub Contribution Chart](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kalluru498&theme=radical)
 
 ---
 
