@@ -30,9 +30,8 @@ Here are some of my top projects that showcase my skills and interests:
 
 ## 📫 Contact Me
 Feel free to reach out to me via:
-- [LinkedIn](https://www.linkedin.com/in/naveenkalluru)
-- [GitHub](https://github.com/naveenkalluru)
-- Email: naveenkalluru@example.com
+- [GitHub](https://github.com/kalluru498)
+- Email: kallurunaveen498@example.com
 
 ---
 
