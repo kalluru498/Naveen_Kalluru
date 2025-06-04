@@ -4,7 +4,7 @@
 
 I'm a **Generative AI Engineer**, **Python Developer**, and **AI Solutions Architect** passionate about creating real-world impact through intelligent systems. I specialize in building end-to-end **GenAI applications** using tools like **OpenAI**, **LangChain**, **Hugging Face**, and **Vertex AI** with a strong focus on **healthcare** and **enterprise automation** use cases.
 
-With hands-on experience in **Prompt Engineering**, **Retrieval-Augmented Generation (RAG)**, **LLM pipelines**, and **cloud-native deployments**, I enjoy designing scalable AI systems that extract insights, automate decisions, and enhance user experiences.
+With hands-on experience in **Prompt Engineering**, **Retrieval-Augmented Generation (RAG)**, **LLM pipelines**, and **cloud-native deployments**, I specialize in building scalable, intelligent systems that extract insights, automate decision-making, and solve real-world problems while delivering seamless user experiences.
 
 ---
 
