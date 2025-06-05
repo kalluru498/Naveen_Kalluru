@@ -8,25 +8,60 @@ With hands-on experience in **Prompt Engineering**, **Retrieval-Augmented Genera
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Tech Skills & Tools
+
+### 🖥️ Programming Languages
+`Python`, `JavaScript (ES6+)`, `TypeScript`, `C#`, `R`, `HTML5`, `CSS3`, `Bootstrap`
+
+### ⚙️ Frameworks & Libraries
+`React`, `Node.js`, `Django`, `Flask`, `FastAPI`, `AngularJS`, `Ionic`, `Microservices`, `jQuery`, `AJAX`
+
+### 🗃️ Databases
+`PostgreSQL`, `MySQL`, `MongoDB`, `SQL`, `DynamoDB`, `SQL Server`, `Pinecone`, `Chroma DB`
+
+### ☁️ Cloud Platforms
+- **AWS**: EC2, S3, Lambda, Bedrock, DynamoDB, RDS, EKS, CloudFormation, CodePipeline  
+- **Google Cloud Platform**: Vertex AI, BigQuery  
+- **Azure**: Azure Functions, Azure Storage, Cosmos DB, Azure SQL, Azure Text Analytics
+
+### 🤖 AI & ML Tools
+`OpenAI`, `Claude`, `LangChain`, `LangGraph`, `DSPy`, `Prompt Engineering`, `RAG`, `Hugging Face`, `LLaMA`, `BERT`, `GPT-4`, `Gemini`
+
+### 🔄 DevOps & CI/CD
+`Terraform`, `Docker`, `Kubernetes (EKS)`, `Jenkins`, `GitHub Actions`, `GitLab CI`
+
+### 🧪 Testing & Debugging
+`Unit Testing`, `PyTest`, `Jest`, `Mocha`, `Logging`, `Error Monitoring`
+
+### 🧰 Version Control & IDEs
+`Git`, `GitHub`, `Visual Studio`, `PyCharm`, `Jupyter Notebook`, `SSMS`, `Postman`
+
+### 📋 Project Management
+`Jira`, `Agile`, `Scrum`
+
+---
+
+## 🛠️ Tech Stack (Visual Badges)
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6B00?style=for-the-badge&logo=langchain&logoColor=white)
 ![DSPy](https://img.shields.io/badge/DSPy-222222?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-05998A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-02A6E6?style=for-the-badge&logo=pinecone&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge&logo=vector&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-1ABC9C?style=for-the-badge)
+
 
 ---
 
