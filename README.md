@@ -59,7 +59,7 @@ Here are some of the projects I’ve built that reflect my GenAI and analytics c
 
 Let’s connect and collaborate on exciting AI projects!
 
-📅 **Schedule a call**: [Book here](https://calendly.com/kallurunaveen498/30min) 
+📅 **Schedule a call**: [Book here](https://calendly.com/your-link)  
 📧 **Email**: [kallurunaveen498@gmail.com](mailto:kallurunaveen498@gmail.com)  
 💻 **GitHub**: [github.com/kalluru498](https://github.com/kalluru498)
 
