@@ -9,36 +9,6 @@ With hands-on experience in **Prompt Engineering**, **Retrieval-Augmented Genera
 ---
 
 ## 🧠 Tech Skills & Tools
-
-### 🖥️ Programming Languages
-`Python`, `JavaScript (ES6+)`, `TypeScript`, `C#`, `R`, `HTML5`, `CSS3`, `Bootstrap`
-
-### ⚙️ Frameworks & Libraries
-`React`, `Node.js`, `Django`, `Flask`, `FastAPI`, `AngularJS`, `Ionic`, `Microservices`, `jQuery`, `AJAX`
-
-### 🗃️ Databases
-`PostgreSQL`, `MySQL`, `MongoDB`, `SQL`, `DynamoDB`, `SQL Server`, `Pinecone`, `Chroma DB`
-
-### ☁️ Cloud Platforms
-- **AWS**: EC2, S3, Lambda, Bedrock, DynamoDB, RDS, EKS, CloudFormation, CodePipeline  
-- **Google Cloud Platform**: Vertex AI, BigQuery  
-- **Azure**: Azure Functions, Azure Storage, Cosmos DB, Azure SQL, Azure Text Analytics
-
-### 🤖 AI & ML Tools
-`OpenAI`, `Claude`, `LangChain`, `LangGraph`, `DSPy`, `Prompt Engineering`, `RAG`, `Hugging Face`, `LLaMA`, `BERT`, `GPT-4`, `Gemini`
-
-### 🔄 DevOps & CI/CD
-`Terraform`, `Docker`, `Kubernetes (EKS)`, `Jenkins`, `GitHub Actions`, `GitLab CI`
-
-### 🧪 Testing & Debugging
-`Unit Testing`, `PyTest`, `Jest`, `Mocha`, `Logging`, `Error Monitoring`
-
-### 🧰 Version Control & IDEs
-`Git`, `GitHub`, `Visual Studio`, `PyCharm`, `Jupyter Notebook`, `SSMS`, `Postman`
-
-### 📋 Project Management
-`Jira`, `Agile`, `Scrum`
-
 ---
 
 ## 🛠️ Tech Stack (Visual Badges)
