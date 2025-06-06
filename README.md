@@ -8,10 +8,7 @@ With hands-on experience in **Prompt Engineering**, **Retrieval-Augmented Genera
 
 ---
 
-## 🧠 Tech Skills & Tools
----
-
-## 🛠️ Tech Stack (Visual Badges)
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
